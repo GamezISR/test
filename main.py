@@ -1,4 +1,15 @@
 def print_stuff():
   print("Hello")
 
-print_stuff()
+def challenge_one():
+  print("hello world")
+
+
+
+
+def main():
+  challenge_one()
+
+
+if __name__ == "__main__":
+  main()
